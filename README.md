@@ -146,8 +146,7 @@ To clone and run this project on your local machine:
 If you have any questions or feedback, feel free to reach out:
 
 **Srikrishna Ghanti**  
-📧 [srikrishnaghanti07@gmail.com](mailto:srikrishnaghanti07@gmail.com)  
-🔗 [GitHub: krishnaghanti07](https://github.com/krishnaghanti07)
+📧 [srikrishnaghanti07@gmail.com](mailto:ghoshrupam1144@gmail.com) 
 
 ---
 
