@@ -20,7 +20,7 @@
 
 ## 👨‍💻 Developed By
 
-**Srikrishna Ghanti**
+**Rupam Ghosh**
 
 ---
 
